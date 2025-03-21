@@ -1,0 +1,14 @@
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Week10_ChallengeLabs\bin\Debug\net8.0\Week10_ChallengeLabs.exe
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Week10_ChallengeLabs\bin\Debug\net8.0\Week10_ChallengeLabs.deps.json
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Week10_ChallengeLabs\bin\Debug\net8.0\Week10_ChallengeLabs.runtimeconfig.json
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Week10_ChallengeLabs\bin\Debug\net8.0\Week10_ChallengeLabs.dll
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Week10_ChallengeLabs\bin\Debug\net8.0\Week10_ChallengeLabs.pdb
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Week10_ChallengeLabs\obj\Debug\net8.0\Week10_ChallengeLabs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Week10_ChallengeLabs\obj\Debug\net8.0\Week10_ChallengeLabs.AssemblyInfoInputs.cache
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Week10_ChallengeLabs\obj\Debug\net8.0\Week10_ChallengeLabs.AssemblyInfo.cs
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Week10_ChallengeLabs\obj\Debug\net8.0\Week10_ChallengeLabs.csproj.CoreCompileInputs.cache
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Week10_ChallengeLabs\obj\Debug\net8.0\Week10_ChallengeLabs.dll
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Week10_ChallengeLabs\obj\Debug\net8.0\refint\Week10_ChallengeLabs.dll
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Week10_ChallengeLabs\obj\Debug\net8.0\Week10_ChallengeLabs.pdb
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Week10_ChallengeLabs\obj\Debug\net8.0\Week10_ChallengeLabs.genruntimeconfig.cache
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Week10_ChallengeLabs\obj\Debug\net8.0\ref\Week10_ChallengeLabs.dll
