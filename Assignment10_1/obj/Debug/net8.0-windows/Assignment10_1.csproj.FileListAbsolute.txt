@@ -1,0 +1,16 @@
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Assignment10_1\bin\Debug\net8.0-windows\Assignment10_1.exe
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Assignment10_1\bin\Debug\net8.0-windows\Assignment10_1.deps.json
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Assignment10_1\bin\Debug\net8.0-windows\Assignment10_1.runtimeconfig.json
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Assignment10_1\bin\Debug\net8.0-windows\Assignment10_1.dll
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Assignment10_1\bin\Debug\net8.0-windows\Assignment10_1.pdb
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Assignment10_1\obj\Debug\net8.0-windows\Assignment10_1.Form1.resources
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Assignment10_1\obj\Debug\net8.0-windows\Assignment10_1.csproj.GenerateResource.cache
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Assignment10_1\obj\Debug\net8.0-windows\Assignment10_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Assignment10_1\obj\Debug\net8.0-windows\Assignment10_1.AssemblyInfoInputs.cache
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Assignment10_1\obj\Debug\net8.0-windows\Assignment10_1.AssemblyInfo.cs
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Assignment10_1\obj\Debug\net8.0-windows\Assignment10_1.csproj.CoreCompileInputs.cache
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Assignment10_1\obj\Debug\net8.0-windows\Assignment10_1.dll
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Assignment10_1\obj\Debug\net8.0-windows\refint\Assignment10_1.dll
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Assignment10_1\obj\Debug\net8.0-windows\Assignment10_1.pdb
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Assignment10_1\obj\Debug\net8.0-windows\Assignment10_1.genruntimeconfig.cache
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Assignment10_1\obj\Debug\net8.0-windows\ref\Assignment10_1.dll
