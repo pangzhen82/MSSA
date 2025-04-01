@@ -1,0 +1,14 @@
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Assignment12_1\bin\Debug\net8.0\Assignment12_1.exe
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Assignment12_1\bin\Debug\net8.0\Assignment12_1.deps.json
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Assignment12_1\bin\Debug\net8.0\Assignment12_1.runtimeconfig.json
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Assignment12_1\bin\Debug\net8.0\Assignment12_1.dll
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Assignment12_1\bin\Debug\net8.0\Assignment12_1.pdb
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Assignment12_1\obj\Debug\net8.0\Assignment12_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Assignment12_1\obj\Debug\net8.0\Assignment12_1.AssemblyInfoInputs.cache
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Assignment12_1\obj\Debug\net8.0\Assignment12_1.AssemblyInfo.cs
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Assignment12_1\obj\Debug\net8.0\Assignment12_1.csproj.CoreCompileInputs.cache
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Assignment12_1\obj\Debug\net8.0\Assignment12_1.dll
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Assignment12_1\obj\Debug\net8.0\refint\Assignment12_1.dll
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Assignment12_1\obj\Debug\net8.0\Assignment12_1.pdb
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Assignment12_1\obj\Debug\net8.0\Assignment12_1.genruntimeconfig.cache
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Assignment12_1\obj\Debug\net8.0\ref\Assignment12_1.dll
