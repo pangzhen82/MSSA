@@ -1,0 +1,16 @@
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\testForm\bin\Debug\net8.0-windows\testForm.exe
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\testForm\bin\Debug\net8.0-windows\testForm.deps.json
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\testForm\bin\Debug\net8.0-windows\testForm.runtimeconfig.json
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\testForm\bin\Debug\net8.0-windows\testForm.dll
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\testForm\bin\Debug\net8.0-windows\testForm.pdb
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\testForm\obj\Debug\net8.0-windows\testForm.Form1.resources
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\testForm\obj\Debug\net8.0-windows\testForm.csproj.GenerateResource.cache
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\testForm\obj\Debug\net8.0-windows\testForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\testForm\obj\Debug\net8.0-windows\testForm.AssemblyInfoInputs.cache
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\testForm\obj\Debug\net8.0-windows\testForm.AssemblyInfo.cs
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\testForm\obj\Debug\net8.0-windows\testForm.csproj.CoreCompileInputs.cache
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\testForm\obj\Debug\net8.0-windows\testForm.dll
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\testForm\obj\Debug\net8.0-windows\refint\testForm.dll
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\testForm\obj\Debug\net8.0-windows\testForm.pdb
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\testForm\obj\Debug\net8.0-windows\testForm.genruntimeconfig.cache
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\testForm\obj\Debug\net8.0-windows\ref\testForm.dll
