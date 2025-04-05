@@ -1,0 +1,7 @@
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Week3_ChallengeLab\bin\Debug\Week3_ChallengeLab.exe.config
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Week3_ChallengeLab\bin\Debug\Week3_ChallengeLab.exe
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Week3_ChallengeLab\bin\Debug\Week3_ChallengeLab.pdb
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Week3_ChallengeLab\obj\Debug\Week3_ChallengeLab.csproj.AssemblyReference.cache
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Week3_ChallengeLab\obj\Debug\Week3_ChallengeLab.csproj.CoreCompileInputs.cache
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Week3_ChallengeLab\obj\Debug\Week3_ChallengeLab.exe
+C:\Users\pangz\Documents\MSSA\20483-Programming in C#\CSharpProjects\Week3_ChallengeLab\obj\Debug\Week3_ChallengeLab.pdb
